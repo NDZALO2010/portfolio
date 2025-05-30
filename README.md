@@ -19,7 +19,7 @@ This is the personal portfolio website of Ndzalo Joe Mathebula, a dedicated and 
 
 ## Usage
 
-Open the `index.html` file in a web browser to view the portfolio.
+Open the Link: https://ndzalo2010.github.io/portfolio/ file in a web browser to view the portfolio.
 
 ## Author
 
