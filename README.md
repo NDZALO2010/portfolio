@@ -4,17 +4,21 @@ This is a React version of the portfolio project.
 
 ## Setup
 
-1. Install dependencies:
+1. Clone the project:
+   
+   git clone https://github.com/NDZALO2010/portfolio.git
+   
+2. Install dependencies:
 ```
 npm install
 ```
 
-2. Start the development server:
+3. Start the development server:
 ```
 npm start
 ```
 
-3. The app will be available at http://localhost:3000
+4. The app will be available at http://localhost:3000
 
 ## Features
 
