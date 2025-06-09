@@ -5,7 +5,7 @@ const Skills = () => (
     <h2>Skills</h2>
     <div className="skills-grid">
       <div className="skill-category">
-        <h3>Frontend</h3>
+        <h3>Front-end Development</h3>
         <ul>
           <li>HTML</li>
           <li>CSS</li>
@@ -14,13 +14,29 @@ const Skills = () => (
         </ul>
       </div>
       <div className="skill-category">
-        <h3>Backend</h3>
+        <h3>Back-End web Development</h3>
         <ul>
           <li>Java</li>
           <li>Python</li>
           <li>PL/SQL</li>
           <li>Django</li>
-          <li>Express.js</li>
+        </ul>
+      </div>
+      <div className="skill-category">
+        <h3>Mobile Development</h3>
+        <ul>
+          <li>Kotlin</li>
+          <li>Android Studio</li>
+        </ul>
+      </div>
+      <div className="skill-category">
+        <h3>Tools</h3>
+        <ul>
+          <li>Git</li>
+          <li>VS Code</li>
+          <li>Figma (Wireframing)</li>
+          <li>Netbeans</li>
+          <li>Notepad++</li>
         </ul>
       </div>
       <div className="skill-category">
