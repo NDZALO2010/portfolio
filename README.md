@@ -1,26 +1,28 @@
-# Ndzalo Joe Mathebula Portfolio
+# Portfolio React App
 
-This is the personal portfolio website of Ndzalo Joe Mathebula, a dedicated and enthusiastic software developer. The portfolio showcases skills, education, and contact information, highlighting proficiency in frontend and backend technologies.
+This is a React version of the portfolio project.
+
+## Setup
+
+1. Install dependencies:
+```
+npm install
+```
+
+2. Start the development server:
+```
+npm start
+```
+
+3. The app will be available at http://localhost:3000
 
 ## Features
 
-- Responsive and clean design using HTML and CSS
-- Navigation menu for easy access to different sections: About, Skills, Education, Contact
-- Skills categorized into Frontend, Backend, and Soft Skills
-- Education history with details of institutions and study periods
-- Contact form integrated with Formspree for easy communication
+- React components for each section of the portfolio.
+- Smooth scrolling navigation.
+- Contact form integrated with EmailJS.
+- Responsive design with existing CSS styles.
 
-## Technologies Used
+## Notes
 
-- HTML5
-- CSS3
-- JavaScript
-- Formspree for contact form handling
-
-## Usage
-
-Open the `index.html` file in a web browser to view the portfolio.
-
-## Author
-
-Ndzalo Joe Mathebula
+- Make sure to replace EmailJS service ID and template ID with your own if needed.
